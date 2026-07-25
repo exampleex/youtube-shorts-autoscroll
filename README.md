@@ -9,13 +9,6 @@ A lightweight Google Chrome extension that automatically scrolls to the next vid
 
 ---
 
-## 📸 Demo
-
-![YouTube Shorts Auto-Scroll Demo](assets/demo.gif)
-*(Replace this with a short GIF or screenshot showing the extension in action)*
-
----
-
 ## ✨ Features
 
 - **Hands-Free Auto-Scroll**: Detects when a video finishes and seamlessly scrolls to the next Short.
@@ -27,7 +20,7 @@ A lightweight Google Chrome extension that automatically scrolls to the next vid
 
 ## 🚀 Quick Start (Installation)
 
-1. Clone or download, open Google Chrome and navigate to chrome://extensions/.
+1. Download, open Google Chrome and navigate to chrome://extensions/.
 
 2. Enable Developer mode using the toggle switch in the top-right corner.
 
